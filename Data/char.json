@@ -1,0 +1,52 @@
+{
+   "characters": 
+   [
+       {
+           "id":0,
+           "name":"Mario",
+           "favorite_color":"Red",
+           "occupation":"plumber",
+           "height":"155cm",
+           "weight": "67kg",
+           "image":"https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png"
+       },
+       {
+        "id":1,
+        "name":"Luigi",
+        "favorite_color":"Green",
+        "occupation":"plumber",
+        "height":"171cm",
+        "weight": "31kg",
+        "image":"https://upload.wikimedia.org/wikipedia/en/7/73/Luigi_NSMBUDX.png"
+    },
+    {
+        "id":2,
+        "name":"Wario",
+        "favorite_color":"yellow",
+        "occupation":"businessman",
+        "height":"201cm",
+        "weight": "301kg",
+        "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22e03748-6d22-43a3-ab7c-f20e73e6ccbb/de1peny-f17daa85-65fa-4f3f-8732-332983acc67a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyZTAzNzQ4LTZkMjItNDNhMy1hYjdjLWYyMGU3M2U2Y2NiYlwvZGUxcGVueS1mMTdkYWE4NS02NWZhLTRmM2YtODczMi0zMzI5ODNhY2M2N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-mkQ9czVzvXfjfxJ3FGb_y2vOgDSxVxl3lcjb4dr3ng"
+    },
+    {
+        "id":3,
+        "name":"Princess Peach",
+        "favorite_color":"Pink",
+        "occupation":"Princess",
+        "height": "185cm",
+        "weight": "60kg",
+        "image":"https://e7.pngegg.com/pngimages/81/369/png-clipart-princess-peach-super-mario-bros-super-princess-peach-peach-super-mario-bros-video-game-thumbnail.png"
+    },
+    {
+        "id":4,
+        "name":"Daisy",
+        "favorite_color":"orange",
+        "occupation":"Princess",
+        "height":"180cm",
+        "weight": "58kg",
+        "image":"https://mario.wiki.gallery/images/3/34/MPS_Daisy_Artwork_2.png"
+    }
+   
+   ]
+   }
+   
